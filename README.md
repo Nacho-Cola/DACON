@@ -11,3 +11,6 @@ Colab a100 GPU 사용.
 파인 튜닝과 RAG 적용
 
 Sentence Embedding 후 VectorDB 로 유사도 검색.
+
+
+[Hugging Face](https://huggingface.co/Nacho-Cola)
