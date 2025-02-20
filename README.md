@@ -1,5 +1,5 @@
 # DACON
-(Dacon) 재정정보 AI 검색 알고리즘 경진대회 (47th)
+(Dacon) 재정정보 AI 검색 알고리즘 경진대회 (47th 14%)
 
 Colab a100 GPU 사용.
 
